@@ -12,4 +12,16 @@ Welcome to **Tools**! A list of public/private tools to help you achive things f
 # Presentations
 - **mockups.pixeltrue.com** - Create awesome illustrations for mobile, desktop, laptop, watch. Access it here -> https://mockups.pixeltrue.com/
 
+# Icon generator icon
+- https://icon.kitchen/ - iOS, Android & web icon generator
+    - https://stackoverflow.com/questions/46585809/error-itms-90717-invalid-app-store-icon
+    - https://pub.dev/packages/flutter_launcher_icons
+    - https://www.flutterbeads.com/change-app-launcher-icon-flutter/
+ 
 
+
+
+
+
+# Design templates examples
+- https://icon.kitchen/ - iOs and Android view configurator example
