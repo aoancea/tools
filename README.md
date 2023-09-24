@@ -25,3 +25,5 @@ Welcome to **Tools**! A list of public/private tools to help you achive things f
 
 # Design templates examples
 - https://icon.kitchen/ - iOs and Android view configurator example
+- https://tailwindui.com/components
+- https://getbootstrap.com/docs/5.3/examples/
