@@ -47,3 +47,8 @@ Welcome to **Tools**! A list of public/private tools to help you achive things f
 
 https://roadmap.sh/backend
 
+
+# Building diagrams
+- https://app.diagrams.net/ (you can also have it as a desktop app, which is best!)
+- https://www.screentogif.com/
+
